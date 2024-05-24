@@ -106,3 +106,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou e
 
 # Licença
 Este projeto está licenciado sob a [Licença MIT](https://github.com/Zer0G0ld/Zer0Mail/blob/main/LICENSE)
+```
