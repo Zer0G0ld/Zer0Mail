@@ -7,8 +7,8 @@ from email import encoders
 import logging
 
 def send_email(from_email, to_email, subject, body, attachment_filename):
-    smtp_server = 'mail.reals.com.br'
-    smtp_port = 465
+    smtp_server = 'mail.example.com'
+    smtp_port = 450
     smtp_username = os.getenv('SMTP_USERNAME')
     smtp_password = os.getenv('SMTP_PASSWORD')
 
